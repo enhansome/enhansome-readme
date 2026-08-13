@@ -1,0 +1,1796 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lobehub/lobe-chat",
+          "description": "Modern badge design. Clear feature introductions accompanied by visual design graphics. Ecosystem introduction. Descriptions of project characteristics and development methods. Contributors section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:48:42Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryanoasis/nerd-fonts",
+          "description": "Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T11:01:16Z",
+            "owner": "ryanoasis",
+            "repo": "nerd-fonts",
+            "stars": 64096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GyulyVGC/sniffnet",
+          "description": "Project banner, custom badges and horizontal rules, concise one-line description, informative screenshots, tabular download section with links, features bullet list, acknowledgements section, footer with social icons and links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gofiber/fiber",
+          "description": "Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes (\"the why of project\"), tables with project addons, list of contributors, star growth statistics, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:21:44Z",
+            "owner": "gofiber",
+            "repo": "fiber",
+            "stars": 40062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpie/httpie",
+          "description": "Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostHog/posthog",
+          "description": "Custom-made section icons, demo GIF, deploy button, profile images for contributors, concise, clear structure, project logo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:47:15Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refinedev/refine",
+          "description": "Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T15:19:38Z",
+            "owner": "refinedev",
+            "repo": "refine",
+            "stars": 35503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebilly/redoc",
+          "description": "Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:09:55Z",
+            "owner": "Redocly",
+            "repo": "redoc",
+            "stars": 25869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doomemacs/doomemacs",
+          "description": "Beautiful and well organized. Centered title with section links and useful badges. Screenshot to show off the UI. Well-written introduction with a humorous quote that perfectly describes the project, plus a little demon that says \"Yay Evil!\" to complete the aesthetic. Concise and informative feature list followed by excellent installation instructions. Ends with helpful links to documentation and built-in shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-06T23:55:56Z",
+            "owner": "doomemacs",
+            "repo": "core",
+            "stars": 22573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nhn/tui.editor",
+          "description": "Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-01T15:38:05Z",
+            "owner": "nhn",
+            "repo": "tui.editor",
+            "stars": 18012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amplication/amplication",
+          "description": "Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T13:46:55Z",
+            "owner": "amplication",
+            "repo": "amplication",
+            "stars": 16015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "treeverse/dvc",
+          "description": "ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:51:13Z",
+            "owner": "treeverse",
+            "repo": "dvc",
+            "stars": 15814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbt-labs/dbt-core",
+          "description": "Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:35:42Z",
+            "owner": "dbt-labs",
+            "repo": "dbt-core",
+            "stars": 13633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gui-cs/Terminal.Gui",
+          "description": "Status badges (NuGet version, codecov, downloads, license). Project name and concise cross-platform tagline. Hero animation followed by the project logo. Versioning callout distinguishing the current v2 from the v1 maintenance line. Sample app demo GIF. Quick start with template install and a runnable C# example. Bulleted capability inventory across forms, data views, visualizations, text editors, file management, wizards, and cross-platform tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:46:57Z",
+            "owner": "tui-cs",
+            "repo": "Terminal.Gui",
+            "stars": 11171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voltagent/voltagent",
+          "description": "Clean project logo. Useful badges and links (website, docs, demo). Screenshot. Clear code examples amongst the feature list. Quickstart example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:24:53Z",
+            "owner": "VoltAgent",
+            "repo": "voltagent",
+            "stars": 10347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sindresorhus/pageres",
+          "description": "Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-09T21:28:45Z",
+            "owner": "sindresorhus",
+            "repo": "pageres",
+            "stars": 9738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "release-it/release-it",
+          "description": "Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T07:29:51Z",
+            "owner": "release-it",
+            "repo": "release-it",
+            "stars": 9026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-changelog-generator/github-changelog-generator",
+          "description": "TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-18T00:32:15Z",
+            "owner": "github-changelog-generator",
+            "repo": "github-changelog-generator",
+            "stars": 7534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai/size-limit",
+          "description": "Project logo, clear description, screenshot, step-by-step installing instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T12:45:50Z",
+            "owner": "ai",
+            "repo": "size-limit",
+            "stars": 6937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "choojs/choo",
+          "description": "Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T10:15:19Z",
+            "owner": "choojs",
+            "repo": "choo",
+            "stars": 6770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sourcerer-io/sourcerer-app",
+          "description": "Clean animated screenshot. Customized call to action badge. Usage showcase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2020-09-30T20:20:13Z",
+            "owner": "sourcerer-io",
+            "repo": "sourcerer-app",
+            "stars": 6734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thelounge/thelounge",
+          "description": "Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contribution guide. Good mobile summary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:59:00Z",
+            "owner": "thelounge",
+            "repo": "thelounge",
+            "stars": 6312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "themerdev/themer",
+          "description": "Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise installation and usage sections, including common workflows. Colorful previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T21:59:06Z",
+            "owner": "mjswensen",
+            "repo": "themer",
+            "stars": 5845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenml-io/zenml",
+          "description": "Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:01:02Z",
+            "owner": "zenml-io",
+            "repo": "zenml",
+            "stars": 5553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Day8/re-frame",
+          "description": "Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-05T15:55:07Z",
+            "owner": "day8",
+            "repo": "re-frame",
+            "stars": 5541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccostan/Home-AssistantConfig",
+          "description": "Project Banner. Badges. Easy navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:59:16Z",
+            "owner": "CCOSTAN",
+            "repo": "Home-AssistantConfig",
+            "stars": 5259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "athityakumar/colorls",
+          "description": "Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T11:41:05Z",
+            "owner": "athityakumar",
+            "repo": "colorls",
+            "stars": 5134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitpoint/git-point",
+          "description": "Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-24T02:05:41Z",
+            "owner": "gitpoint",
+            "repo": "git-point",
+            "stars": 4766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmlhint/HTMLHint",
+          "description": "Centered hero animation as the masthead. Concise tagline. Useful badges (npm version, OpenSSF best practices, downloads, license). Quick navigation links. Table of contents. Sectioned installation guide for local and global use, with both ESM and CommonJS code samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:12:36Z",
+            "owner": "htmlhint",
+            "repo": "HTMLHint",
+            "stars": 3307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karan/joe",
+          "description": "Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-30T10:08:05Z",
+            "owner": "karan",
+            "repo": "joe",
+            "stars": 2865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-go-app/cli",
+          "description": "Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage manual, video screencast, ToC with well-documented project features (with a demo recording of the work in the terminal), project philosophy notes (\"the why another\"), most frequently asked questions, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-10T00:34:13Z",
+            "owner": "create-go-app",
+            "repo": "cli",
+            "stars": 2766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lobehub/sd-webui-lobe-theme",
+          "description": "Feature list and demo. I18n support. Navigation with Header and TOC. Clear instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:01:26Z",
+            "owner": "lobehub",
+            "repo": "sd-webui-lobe-theme",
+            "stars": 2709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vhesener/Closures",
+          "description": "Project logo, cognitive funnel, animated examples. Color-coordinated. Clean documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-04-29T15:34:36Z",
+            "owner": "dusty-commits",
+            "repo": "Closures",
+            "stars": 1744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aimeos/aimeos-typo3",
+          "description": "Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-15T10:14:41Z",
+            "owner": "aimeos",
+            "repo": "aimeos-typo3",
+            "stars": 1562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emalderson/ThePhish",
+          "description": "Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T14:36:08Z",
+            "owner": "emalderson",
+            "repo": "ThePhish",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sulu/sulu",
+          "description": "Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T14:31:58Z",
+            "owner": "sulu",
+            "repo": "sulu",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alichtman/shallow-backup",
+          "description": "Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T11:43:30Z",
+            "owner": "alichtman",
+            "repo": "shallow-backup",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sebyddd/SDVersion",
+          "description": "Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-12-28T03:38:50Z",
+            "owner": "sebyddd",
+            "repo": "SDVersion",
+            "stars": 1306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brenocq/implot3d",
+          "description": "Project banner with GIFs. Link to online demo. Multiple CI badges. Dynamic roadmap with auto-updating SVGs that reflect feature discussions in real-time, powered by GitHub Actions. Displays the 5 most recent discussions with clickable images for quick access. Clean, well-structured layout with intuitive navigation and star history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T17:41:31Z",
+            "owner": "brenocq",
+            "repo": "implot3d",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gowebly/gowebly",
+          "description": "Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes (\"motivation to create\"), tables with project components, links to addons and helpers, list of stargazers, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-18T09:31:27Z",
+            "owner": "gowebly",
+            "repo": "gowebly",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alichtman/stronghold",
+          "description": "Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:31:58Z",
+            "owner": "alichtman",
+            "repo": "stronghold",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shama/gaze",
+          "description": "Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-11T12:46:29Z",
+            "owner": "shama",
+            "repo": "gaze",
+            "stars": 1151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amitmerchant1990/electron-markdownify",
+          "description": "Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-12T11:12:10Z",
+            "owner": "amitmerchant1990",
+            "repo": "electron-markdownify",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkosir/react-parallax-tilt",
+          "description": "GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:28:52Z",
+            "owner": "mkosir",
+            "repo": "react-parallax-tilt",
+            "stars": 1078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owloops/updo",
+          "description": "Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-26T08:12:19Z",
+            "owner": "Owloops",
+            "repo": "updo",
+            "stars": 1077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hmpl-language/hmpl",
+          "description": "Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T13:54:43Z",
+            "owner": "hmpl-language",
+            "repo": "hmpl",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSRare/NSGIF",
+          "description": "Project logo. GIF Demo. Usage artwork. Usage code samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-05-20T13:38:48Z",
+            "owner": "NSRare",
+            "repo": "NSGIF",
+            "stars": 928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexworks/Zircon",
+          "description": "Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-24T17:46:18Z",
+            "owner": "Hexworks",
+            "repo": "zircon",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IgorAntun/node-chat",
+          "description": "Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-14T13:48:13Z",
+            "owner": "igorantun",
+            "repo": "node-chat",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hywax/mafl",
+          "description": "Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-07T05:14:36Z",
+            "owner": "hywax",
+            "repo": "mafl",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-censor/php-censor",
+          "description": "Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-31T07:19:45Z",
+            "owner": "php-censor",
+            "repo": "php-censor",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlexRipper/PlexRipper",
+          "description": "Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:09:26Z",
+            "owner": "Reaparr",
+            "repo": "Reaparr",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Martinsos/edlib",
+          "description": "Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-13T08:31:15Z",
+            "owner": "Martinsos",
+            "repo": "edlib",
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grigorij-Dudnik/Clean-Coder-AI",
+          "description": "Crazy project trailer video. Beautiful logo, explanatory motion gifs. Nice badges, and schema describing the framework's principle of work. List of stargazers. Clear description of what project does.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-02T10:30:44Z",
+            "owner": "Grigorij-Dudnik",
+            "repo": "Clean-Coder-AI",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA/ogma",
+          "description": "Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T13:55:41Z",
+            "owner": "nasa",
+            "repo": "ogma",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xnbox/DeepfakeHTTP",
+          "description": "Original hero section. Clear navigation. Minimalist design. Appendices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-08-05T16:56:15Z",
+            "owner": "xnbox",
+            "repo": "DeepfakeHTTP",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serpro69/kotlin-faker",
+          "description": "Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-10T20:22:01Z",
+            "owner": "serpro69",
+            "repo": "kotlin-faker",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dowjones/react-dropdown-tree-select",
+          "description": "Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T10:11:49Z",
+            "owner": "dowjones",
+            "repo": "react-dropdown-tree-select",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ivanperez-keera/Yampa",
+          "description": "Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-05-16T20:09:23Z",
+            "owner": "ivanperez-keera",
+            "repo": "Yampa",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntonioFalcaoJr/EventualShop",
+          "description": "The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-18T18:31:26Z",
+            "owner": "AntonioFalcaoJr",
+            "repo": "EventualShop",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rstacruz/hicat",
+          "description": "GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-10T10:22:02Z",
+            "owner": "rstacruz",
+            "repo": "hicat",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skydio/revup",
+          "description": "Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T22:21:59Z",
+            "owner": "Skydio",
+            "repo": "revup",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Armync/Arminc-AutoExec",
+          "description": "Rich Markdown functions, modern layout, clear description, and compliance with the recommended community standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-19T16:14:25Z",
+            "owner": "armync",
+            "repo": "ArminC-AutoExec",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aregtech/areg-sdk",
+          "description": "Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and \"Back to top\" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:06:01Z",
+            "owner": "aregtech",
+            "repo": "areg-sdk",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MananTank/radioactive-state",
+          "description": "Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-27T00:54:14Z",
+            "owner": "MananTank",
+            "repo": "radioactive-state",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sultan99/react-on-lambda",
+          "description": "Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-08T02:23:53Z",
+            "owner": "sultan99",
+            "repo": "react-on-lambda",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supunlakmal/thismypc",
+          "description": "Project logo. Useful badges. Website URL. Screenshot. GIF step-by-step instructions for installation. Project folder structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-03T04:10:07Z",
+            "owner": "supunlakmal",
+            "repo": "thismypc",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haesleinhuepf/bia-bob",
+          "description": "LLM-powered coding assistant project with exemplary use of visual demonstration: sections are anchored by a GIF or screenshot of the feature in action, uses extensive examples, and copy-paste-ready configurations. Includes status badges of the project and references similar projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T12:17:19Z",
+            "owner": "haesleinhuepf",
+            "repo": "bia-bob",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ma-shamshiri/Human-Activity-Recognition",
+          "description": "Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors' section. Easy navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-21T23:11:05Z",
+            "owner": "ma-shamshiri",
+            "repo": "Human-Activity-Recognition",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abblix/Oidc.Server",
+          "description": "Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T05:05:39Z",
+            "owner": "Abblix",
+            "repo": "Oidc.Server",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iharsh234/WebApp",
+          "description": "Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-07T18:01:57Z",
+            "owner": "iharsh234",
+            "repo": "WebApp",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ma-shamshiri/Pacman-Game",
+          "description": "Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-04T17:24:51Z",
+            "owner": "ma-shamshiri",
+            "repo": "Pacman-Game",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chroline/well_app",
+          "description": "Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-02-12T14:00:25Z",
+            "owner": "chroline",
+            "repo": "well_app",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsplce-co/supabase-plus",
+          "description": "Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T12:00:17Z",
+            "owner": "dsplce-co",
+            "repo": "supabase-plus",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sr6033/lterm",
+          "description": "Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T15:23:11Z",
+            "owner": "sr6033",
+            "repo": "lterm",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "priyavrat-misra/xrays-and-gradcam",
+          "description": "TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-15T11:59:31Z",
+            "owner": "priyavrat-misra",
+            "repo": "xrays-and-gradcam",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kopach/karma-sabarivka-reporter",
+          "description": "Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:15:09Z",
+            "owner": "kopach",
+            "repo": "karma-sabarivka-reporter",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ankitwasankar/mftool-java",
+          "description": "Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-06T16:26:10Z",
+            "owner": "ankitwasankar",
+            "repo": "mftool-java",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sidneycadot/oeis",
+          "description": "Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-02T13:59:30Z",
+            "owner": "sidneycadot",
+            "repo": "oeis",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ma-shamshiri/Spam-Detector",
+          "description": "Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-21T02:54:04Z",
+            "owner": "ma-shamshiri",
+            "repo": "Spam-Detector",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teles/array-mixer",
+          "description": "Clean project logo, badges. Table of contents. Contribution section. Many illustrated examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-30T03:11:10Z",
+            "owner": "teles",
+            "repo": "array-mixer",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L0garithmic/FastColabCopy",
+          "description": "Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-18T13:37:20Z",
+            "owner": "LunarWerxs",
+            "repo": "FastColabCopy",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FileShot/FileShotZKE",
+          "description": "Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-03T19:39:42Z",
+            "owner": "FileShot",
+            "repo": "FileShotZKE",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eylon-44/Buzz-OS",
+          "description": "Project logo. Colorful emojis. GIFs for project demo, examples, and instructions. Fast and simple copy-paste instructions for installation and usage. Pretty table of contents. A quick overview of project's main features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-29T12:11:24Z",
+            "owner": "eylon-44",
+            "repo": "Buzz-OS",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feberts/python-game-server",
+          "description": "A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:39:22Z",
+            "owner": "feberts",
+            "repo": "python-game-server",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yvann-ba/ft_transcendence",
+          "description": "Minimalist Project banner, clear GIF gallery in table layout. Colorful architecture diagram. Clear tech stack description. Team section with contributor avatars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-13T19:32:46Z",
+            "owner": "yvann-ba",
+            "repo": "ft_transcendence",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aurumz-rgb/ReviewAid",
+          "description": "Project banner with academic badges. Features architecture diagrams, AI provider logos, collapsible workflows, and comparison tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:24:44Z",
+            "owner": "aurumz-rgb",
+            "repo": "ReviewAid",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeeIsAllYouNeed/Invisible-Driver",
+          "description": "Simple project banner. Multiple badges. Organized sections. Well-documented project components (hardware & software) and diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T17:43:50Z",
+            "owner": "CoffeeIsAllYouNeed",
+            "repo": "Invisible-Driver",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack-in-a-box/triumphmayflowerclub.com",
+          "description": "Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible setup instructions. Includes many common elements found in other beautiful READMEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-28T19:33:15Z",
+            "owner": "Stack-in-a-box",
+            "repo": "triumphmayflowerclub.com",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yeaight7/awesome-ai-devtools",
+          "description": "Auto-Generated README built from structured metadata, with a custom SVG header, comparison matrix, category index, tool tables, and review-backed summaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:11:34Z",
+            "owner": "yeaight7",
+            "repo": "awesome-ai-devtools",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTruf/Driver-Drowsiness-Detector",
+          "description": "Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-04T01:20:18Z",
+            "owner": "GTruf",
+            "repo": "Driver-Drowsiness-Detector",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stevenfoncken/multitool-for-spotify-php",
+          "description": "Concise introductory description. Clear overview of features. Why-section with easter egg (heading). Informative badges. Clear disclaimer. Step-by-step setup instructions. Expandable TOC. Headlines with emojis. Detailed usage section. Shortlinks at the top. Back-to-top link in the footer. Credits to third-party code/libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-05T02:05:37Z",
+            "owner": "stevenfoncken",
+            "repo": "multitool-for-spotify-php",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmunish/notecharts",
+          "description": "High-fidelity project banner with a gallery of modern, designer-grade chart examples. Clear comparison to existing Python visualization tools and concise code snippets demonstrating its declarative API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T05:25:04Z",
+            "owner": "dmunish",
+            "repo": "notecharts",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EduardaSRBastos/my-essential-toolbox",
+          "description": "Project screenshot and informative badges. Clear project description. TOC for easy navigation. Well-structured sections detailing included tools by category. Performance score with screenshots. Contribution guidelines and license information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-01T01:22:30Z",
+            "owner": "EduardaSRBastos",
+            "repo": "my-essential-toolbox",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shriyanyamali/JurisMercatus",
+          "description": "Project logo with badges and how to use GIF. Project purpose and development process. Simple but detailed installation instructions. License and attribution sections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-10T03:28:36Z",
+            "owner": "shriyanyamali",
+            "repo": "JurisMercatus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmunish/reach",
+          "description": "Clear visual hierarchy. Makes extensive use of HTML and custom SVG icons. Makes use of ample imagery including banner, architecture diagram and screenshots. Explains the project's purpose, implementation and roadmap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:11:40Z",
+            "owner": "dmunish",
+            "repo": "reach",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dutrevis/spark-resources-metrics-plugin",
+          "description": "Highlights an interactive Mermaid diagram in the Developer section, showcasing the code architecture. Has a patch-inspired logo, useful badges (CI, coverage, version links), and a concise ToC. Installation section is well-organized with expandable blocks for different scenarios. Usage section covers current functionalities and examples, also with expandable blocks. Includes technology badges, and also prior art and next steps sections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-09-03T05:21:36Z",
+            "owner": "dutrevis",
+            "repo": "spark-resources-metrics-plugin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "A good ARCHITECTURE.md file helps developers understand how and where to make changes, whether they are new to a project or not.\nDiagrams, source code maps, and discussing invariants and design decisions are essential.\nThis can also be a dedicated section of your README.md files.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linux cryptography",
+          "description": "Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:31:28Z",
+            "owner": "torvalds",
+            "repo": "linux",
+            "stars": 242675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oh My Zsh",
+          "description": "Describes the initialization process, calls out environment requirements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T11:03:43Z",
+            "owner": "ohmyzsh",
+            "repo": "ohmyzsh",
+            "stars": 189143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VS Code",
+          "description": "Good use of high-level diagrams. Describes source organisation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:40:11Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Engine",
+          "description": "Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T06:39:48Z",
+            "owner": "flutter",
+            "repo": "flutter",
+            "stars": 178377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tauri",
+          "description": "Well made source code map, discusses architecture considerations, calls out important dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:17Z",
+            "owner": "tauri-apps",
+            "repo": "tauri",
+            "stars": 110170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim",
+          "description": "Describes the main processes/lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T05:41:15Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis",
+          "description": "Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T02:43:31Z",
+            "owner": "redis",
+            "repo": "redis",
+            "stars": 75996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esbuild",
+          "description": "Great use of graphics for visualisations and project structure. Includes a list of important principles for the project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T17:20:12Z",
+            "owner": "evanw",
+            "repo": "esbuild",
+            "stars": 40018
+          }
+        }
+      ],
+      "title": "Architecture Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Stats",
+          "description": "Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:50:25Z",
+            "owner": "anuraghazra",
+            "repo": "github-readme-stats",
+            "stars": 79836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readme-md-generator",
+          "description": "A CLI that generates beautiful README.md files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T10:09:51Z",
+            "owner": "kefranabg",
+            "repo": "readme-md-generator",
+            "stars": 11129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "README Typing SVG",
+          "description": "Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-19T14:04:09Z",
+            "owner": "DenverCoder1",
+            "repo": "readme-typing-svg",
+            "stars": 9209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standard Readme",
+          "description": "A standard README style specification. Has a generator to help create spec-compliant READMEs, too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T20:49:16Z",
+            "owner": "RichardLitt",
+            "repo": "standard-readme",
+            "stars": 6340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPRM",
+          "description": "A tool to generate a customized GitHub Profile README with a modern UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-12T17:19:11Z",
+            "owner": "VishwaGauravIn",
+            "repo": "github-profile-readme-maker",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hall-of-fame",
+          "description": "Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-05T10:56:38Z",
+            "owner": "sourcerer-io",
+            "repo": "hall-of-fame",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "README best practices",
+          "description": "A place to copy-paste your README.md from",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-07T09:03:18Z",
+            "owner": "jehna",
+            "repo": "readme-best-practices",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zalando's README Template",
+          "description": "Simple template to help you cover all the basics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-07-24T10:57:37Z",
+            "owner": "zalando",
+            "repo": "zalando-howto-open-source",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazing GitHub Template",
+          "description": "Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T08:26:10Z",
+            "owner": "dec0dOS",
+            "repo": "amazing-github-template",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Readme",
+          "description": "A common readme style for Node. Includes a guide and a readme generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-25T20:13:51Z",
+            "owner": "hackergrrl",
+            "repo": "common-readme",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "user-statistician",
+          "description": "A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T02:46:45Z",
+            "owner": "cicirello",
+            "repo": "user-statistician",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "READMINE",
+          "description": "A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-08T17:11:30Z",
+            "owner": "mhucka",
+            "repo": "readmine",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Card",
+          "description": "Dynamic preview card generator for Telegram channels, groups, and bots. Features responsive design, dark/light theme support, and displays subscriber/member/monthly users/online users counts. Perfect for GitHub profiles and portfolios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:28:36Z",
+            "owner": "Malith-Rukshan",
+            "repo": "telegram-card",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Licenses Stats",
+          "description": "This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-02T14:25:15Z",
+            "owner": "lheintzmann1",
+            "repo": "github-licenses-stats",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub PR Stats",
+          "description": "Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-01T03:25:00Z",
+            "owner": "f14XuanLv",
+            "repo": "github-pr-stats",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScreenToGif",
+          "description": "Free - Open source, with a customizable UI and easily editable GIFs, easy to get started.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T17:52:48Z",
+            "owner": "NickeManarin",
+            "repo": "ScreenToGif",
+            "stars": 27462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vhs",
+          "description": "Free - Generate beautiful terminal GIFs with a simple scripting language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:02:35Z",
+            "owner": "charmbracelet",
+            "repo": "vhs",
+            "stars": 20613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminalizer",
+          "description": "Free - Record your terminal and generate animated GIF images or share a web player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gifski",
+          "description": "Free - More vivid colors than the rest, but still keeps size low.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-08T14:50:30Z",
+            "owner": "sindresorhus",
+            "repo": "Gifski",
+            "stars": 8523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttystudio",
+          "description": "Free - For command-line tools, a terminal-to-GIF recorder minus the headaches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-10T03:58:27Z",
+            "owner": "chjj",
+            "repo": "ttystudio",
+            "stars": 3238
+          }
+        }
+      ],
+      "title": "Creating GIFs"
+    },
+    {
+      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Matias Singers has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:49:07.942Z",
+    "original_repository": "matiassingers/awesome-readme",
+    "original_repository_sha": "26c9685d963d90c38da4cf5e8a62a07b7c4b09c6",
+    "enhanced_repository": "enhansome/enhansome-readme",
+    "enhanced_repository_description": null,
+    "title": "Awesome README with stars"
+  }
+}
